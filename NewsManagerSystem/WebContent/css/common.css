@@ -1,0 +1,52 @@
+.w {
+	width: 1000px;
+	margin: auto;
+	background-color: #fff;
+}
+body {
+	background-color: #eee;
+}
+ul li {
+	float: left;
+	list-style: none;
+}
+nav {
+	margin: 0 !important;
+}
+.user {
+	position: absolute;
+	font-size: 12px;
+	right: 300px;
+	top: 16px;
+}
+.banner {
+	height: 200px;
+	background: url(../img/banner.jpg) center;
+	background-size: cover;
+}
+.spacer {
+	width: 1px;
+	height: 10px;
+	background-color: #ccc;
+	margin: 5px 10px;
+}
+.mainBd {
+	overflow: hidden;
+	border-bottom: 1px solid #ccc;
+}
+.footerBd {
+	height: 100px;
+}
+.copyright {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 12px;
+}
+.copyright ul {
+	margin: auto;
+	width: -webkit-fit-content;
+	height: 20px;
+}
+.modal-content {
+	box-shadow: none;
+}

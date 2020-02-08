@@ -1,0 +1,25 @@
+.banner {
+	height: 200px;
+	background: url(../img/banner.jpg) center;
+	background-size: cover;
+}
+.main {
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+}
+.table {
+	height: 300px;
+	text-align: center;
+}
+.table tbody tr td {
+	vertical-align: middle;
+}
+.table tbody tr td:first-child{
+	padding-left: 20px;
+	width: 600px;
+	text-align: left;
+}
+.pagination {
+	margin-top: 0;
+}
+

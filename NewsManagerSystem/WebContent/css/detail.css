@@ -1,0 +1,22 @@
+h1 {
+	margin-bottom: 30px;
+	font-size: 40px;
+	font-weight: 700;
+	
+}
+
+.content {
+	display: flex;
+	float: left;
+}
+.sideBar {
+	flex: 1;
+	border-right: 1px solid #ccc;
+	width: 120px;
+}
+.inner {
+	flex: 7;
+	margin: 0 10px;
+	font-size: 18px;
+	line-height: 40px;
+}
